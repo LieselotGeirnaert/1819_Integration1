@@ -1,5 +1,6 @@
 # 1819_Integration1
 HTML, CSS and JS project for the course Integration 1 at Devine. The goal of the project was to combine creative thinking, design and developmentskills in a total package.
+**Note:** This course only focused on the desktop design, therefore the website is not responsive.
 
 ## Assignment
 ### The Fixer
